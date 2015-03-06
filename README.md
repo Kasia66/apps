@@ -9,7 +9,7 @@
 5. Make a Pull Request to merge it to the main repo.
 
 ### app.json (mandatory)
-
+fasdfasdfasdfasdffasdfsfasdfasdfadsfa
 This is a json file describing the app in the folder. It contains information about the app and it's maintainer. Here is a full example of `app.json` file:
 
 ```
